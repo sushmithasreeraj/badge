@@ -1,0 +1,113 @@
+*{
+	margin:0;
+	padding:0;
+}
+.card_section{
+	border:1px solid #74A697;
+	box-shadow:5px 5px #74A697;
+	border-radius:10px;
+	width:500px;
+	height:400px;
+	margin:30px auto;
+	position:relative;
+	top:60px;
+}
+.primary_badge{
+	margin:30px;
+	line-height:3;
+}
+.primary_badge a{
+	text-decoration:none;
+	background-color:blue;
+	border-radius:10px;
+	color:white;
+	padding:5px;
+	margin:5px;
+}
+
+.secondary_badge{
+	margin:30px;
+	line-height:3;
+}
+.secondary_badge a{
+	text-decoration:none;
+	background-color:gray;
+	border-radius:10px;
+	color:white;
+	padding:5px;
+	margin:5px;
+}
+.success_badge{
+	margin:30px;
+	line-height:3;
+}
+.success_badge a{
+	text-decoration:none;
+	background-color:green;
+	border-radius:10px;
+	color:white;
+	padding:5px;
+	margin:5px;
+}
+.danger_badge{
+	margin:30px;
+	line-height:3;
+}
+.danger_badge a{
+	text-decoration:none;
+	background-color:red;
+	border-radius:10px;
+	color:white;
+	padding:5px;
+	margin:5px;
+}
+.warning_badge{
+	margin:30px;
+	line-height:3;
+}
+.warning_badge a{
+	text-decoration:none;
+	background-color:yellow;
+	border-radius:10px;
+	color:white;
+	padding:5px;
+	margin:5px;
+}
+.info_badge{
+	margin:30px;
+	line-height:3;
+}
+.info_badge a{
+	text-decoration:none;
+	background-color:skyblue;
+	border-radius:10px;
+	color:white;
+	padding:5px;
+	margin:5px;
+}
+.light_badge{
+	margin:30px;
+	line-height:3;
+}
+.light_badge a{
+	text-decoration:none;
+	background-color:white;
+	border-radius:10px;
+	color:black;
+	padding:5px;
+	margin:5px;
+}
+.dark_badge{
+	margin:30px;
+	line-height:3;
+}
+.dark_badge a{
+	text-decoration:none;
+	background-color:black;
+	border-radius:10px;
+	color:white;
+	padding:5px;
+	margin:5px;
+}
+
+	
